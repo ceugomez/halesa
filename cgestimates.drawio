@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T03:52:16.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="x-3icfuSqFzoKnwJFTpm" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-13T03:52:41.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="3t_6myqjBGVBCnFe361l" version="20.5.3" type="github" pages="2">
   <diagram id="n8r_0Cna9fIMzJHKRakR" name="Page-1">
     <mxGraphModel dx="1887" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,18 +38,6 @@
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/2999185-200.png;" parent="1" vertex="1">
           <mxGeometry x="1220" y="545" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n3eoc5fLVPkFFxaEzCm6-13" value="emp HS LE = 33 f&lt;br&gt;HS Root c = 9.5 ft&lt;br&gt;hs tip c = 8.6 ft&lt;br&gt;emp VS LS = 35.6 ft&lt;br&gt;vs rt c = 8.5 ft&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1015" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="n3eoc5fLVPkFFxaEzCm6-14" value="L_fuse = 618 in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="405" y="1205" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n3eoc5fLVPkFFxaEzCm6-15" value="engine 84 in&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="405" y="1125" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n3eoc5fLVPkFFxaEzCm6-17" value="lengthened fuselage ~30%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="345" y="975" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-18" value="11.29 ft" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="595" y="230" width="80" height="30" as="geometry" />
@@ -150,9 +138,6 @@
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/2999185-200.png;" parent="1" vertex="1">
           <mxGeometry x="574" y="745" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n3eoc5fLVPkFFxaEzCm6-44" value="FE1 = 623.75 lbm&lt;br&gt;FE2 = 1247.5 lbm&lt;br&gt;FE3 = 623.75 lbm&lt;br&gt;FUSE = 3467.2 lbm&lt;br&gt;WING = 3116 lbm&lt;br&gt;EMP = 854.2 lbm&lt;br&gt;LG = 997.5 lbm&lt;br&gt;PWR= 3602.1 lbm&lt;br&gt;FUEL =&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="670" y="1090" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;fontSize=17;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="n3eoc5fLVPkFFxaEzCm6-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -783,6 +768,21 @@
           <mxGeometry x="690" width="160" height="48" as="geometry">
             <mxRectangle width="160" height="48" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X15WHIUEGm0QIWchvy8u-1" value="emp HS LE = 33 f&lt;br&gt;HS Root c = 9.5 ft&lt;br&gt;hs tip c = 8.6 ft&lt;br&gt;emp VS LS = 35.6 ft&lt;br&gt;vs rt c = 8.5 ft&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1390" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X15WHIUEGm0QIWchvy8u-2" value="L_fuse = 618 in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X15WHIUEGm0QIWchvy8u-3" value="engine 84 in&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X15WHIUEGm0QIWchvy8u-4" value="lengthened fuselage ~30%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1350" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X15WHIUEGm0QIWchvy8u-5" value="FE1 = 623.75 lbm&lt;br&gt;FE2 = 1247.5 lbm&lt;br&gt;FE3 = 623.75 lbm&lt;br&gt;FUSE = 3467.2 lbm&lt;br&gt;WING = 3116 lbm&lt;br&gt;EMP = 854.2 lbm&lt;br&gt;LG = 997.5 lbm&lt;br&gt;PWR= 3602.1 lbm&lt;br&gt;FUEL =&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1465" width="170" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
