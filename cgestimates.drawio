@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T02:55:39.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="o5o4jPg5EJtlTAI1Uv_f" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-15T02:57:04.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="HLaSGIAAWe-Ibv1OzOkP" version="20.5.3" type="github" pages="2">
   <diagram id="n8r_0Cna9fIMzJHKRakR" name="Page-1">
-    <mxGraphModel dx="1345" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="769" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,11 +181,11 @@
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-122" value="CG&lt;sub&gt;nose gear&lt;/sub&gt;&lt;span style=&quot;font-size: 14.1667px;&quot;&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;&amp;nbsp;=&amp;nbsp; 3.388 ft (40% Cockpit)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;labelBackgroundColor=none;" parent="n3eoc5fLVPkFFxaEzCm6-121" vertex="1" connectable="0">
           <mxGeometry x="-0.0998" y="2" relative="1" as="geometry">
-            <mxPoint x="236" y="2" as="offset" />
+            <mxPoint x="228" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-123" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.thenounproject.com/png/2999185-200.png;" parent="1" vertex="1">
-          <mxGeometry x="510" y="826" width="30" height="30" as="geometry" />
+          <mxGeometry x="494" y="826" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3eoc5fLVPkFFxaEzCm6-125" value="Nose&lt;br&gt;Gear" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="495" y="432" width="50" height="55" as="geometry" />
