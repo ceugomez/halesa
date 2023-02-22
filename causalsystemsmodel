@@ -1,89 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T15:01:12.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="wBeIzHvuVGHFlT3xbbGN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T15:01:50.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="CDOt0C9ZuqHmnEkeastQ" version="20.8.20" type="github">
   <diagram name="Page-1" id="KlBKMXf7zfG2fX1Q3h5X">
     <mxGraphModel dx="1045" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-1" target="C0DeTDgLqqaApYsY7y9T-2">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-1" target="C0DeTDgLqqaApYsY7y9T-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-1" value="Development of New Autonomy for Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-1" value="Development of New Autonomy for Aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-2" target="C0DeTDgLqqaApYsY7y9T-4">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-2" target="C0DeTDgLqqaApYsY7y9T-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-2" value="Controlled Trials within Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-2" value="Controlled Trials within Industry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-4" target="C0DeTDgLqqaApYsY7y9T-6">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-4" target="C0DeTDgLqqaApYsY7y9T-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-4" value="Self-Certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-4" value="Self-Certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-6" target="C0DeTDgLqqaApYsY7y9T-8">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-6" target="C0DeTDgLqqaApYsY7y9T-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-6" value="Implementation in Commercial Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-6" value="Implementation in Commercial Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="800" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-8" target="C0DeTDgLqqaApYsY7y9T-18">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="C0DeTDgLqqaApYsY7y9T-8" target="C0DeTDgLqqaApYsY7y9T-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-8" value="Miscommunication w/ Autonomy&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-8" value="Miscommunication w/ Autonomy&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1000" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="717" y="520" as="sourcePoint" />
             <mxPoint x="797" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-11" value="Federal &amp;amp; International Regulation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="627" y="535" width="210" height="30" as="geometry" />
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-11" value="Federal &amp;amp; International Regulation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="535" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-14" value="Citations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="880" width="590" height="120" as="geometry" />
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-14" value="Citations" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="590" width="590" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-15" value="&lt;a href=&quot;https://bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf&quot;&gt;F-GZCP VA (bea.aero)&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-15" value="&lt;a href=&quot;https://bea.aero/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf&quot; style=&quot;font-size: 14px;&quot;&gt;F-GZCP VA (bea.aero)&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
           <mxGeometry y="30" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-16" value="&lt;a href=&quot;https://www.faa.gov/foia/electronic_reading_room/boeing_reading_room/media/737_RTS_Summary.pdf&quot;&gt;737_RTS_Summary.pdf (faa.gov)&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-16" value="&lt;a href=&quot;https://www.faa.gov/foia/electronic_reading_room/boeing_reading_room/media/737_RTS_Summary.pdf&quot; style=&quot;font-size: 14px;&quot;&gt;737_RTS_Summary.pdf (faa.gov)&lt;/a&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
           <mxGeometry y="60" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-17" value="https://www.havkom.se/assets/reports/L-34_19-No-AI_01_18-ACCIDENT-FINAL-REPORT_compressed.pdf" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-17" value="https://www.havkom.se/assets/reports/L-34_19-No-AI_01_18-ACCIDENT-FINAL-REPORT_compressed.pdf" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="C0DeTDgLqqaApYsY7y9T-14">
           <mxGeometry y="90" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-18" value="Incident/Accident" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-18" value="Incident/Accident" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="917" y="520" as="sourcePoint" />
             <mxPoint x="997" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-21" value="Human Factors Review &amp;amp; Iteration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="827" y="535" width="210" height="30" as="geometry" />
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-21" value="Human Factors Review &amp;amp; Iteration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="812" y="535" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1117" y="520" as="sourcePoint" />
             <mxPoint x="1197" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-24" value="Revised CRM wrt/ Autonomy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="535" width="180" height="30" as="geometry" />
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-24" value="Revised CRM wrt/ Autonomy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="535" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="520" as="sourcePoint" />
             <mxPoint x="595" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C0DeTDgLqqaApYsY7y9T-26" value="Oversight Agencies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="535" width="130" height="30" as="geometry" />
+        <mxCell id="C0DeTDgLqqaApYsY7y9T-26" value="Oversight Agencies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="535" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
