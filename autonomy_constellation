@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T14:03:58.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="nlBDnBJh8-ZMkgCIUa77" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T14:08:52.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="wBTtPqnIN9LLXRy8UZDw" version="21.0.6" type="github" pages="2">
   <diagram name="Page-1" id="_LpzDfCGqZkdDBKyB_Dd">
-    <mxGraphModel dx="578" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o6xZRHUIVswcsvjj6YsI" name="Page-2">
-    <mxGraphModel dx="550" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1569" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         <mxCell id="i9gPAto_j-gpZpJZPdlq-6" value="Autonomy Design" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="i9gPAto_j-gpZpJZPdlq-4">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i9gPAto_j-gpZpJZPdlq-7" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="i9gPAto_j-gpZpJZPdlq-4">
+        <mxCell id="i9gPAto_j-gpZpJZPdlq-7" value="Perception of Autonomy" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="i9gPAto_j-gpZpJZPdlq-4">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i9gPAto_j-gpZpJZPdlq-8" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -161,6 +161,33 @@
         </mxCell>
         <mxCell id="i9gPAto_j-gpZpJZPdlq-14" value="Communicative Intelligence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="i9gPAto_j-gpZpJZPdlq-12">
           <mxGeometry x="-60" y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="830" y="730" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-3" value="Perceived Limitations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-1">
+          <mxGeometry x="-45" y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="970" y="680" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-4">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-6" value="Perceived Capability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-4">
+          <mxGeometry x="-40" y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="750" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.4_point_star_2;dx=0.8;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-7">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZLHcEKELBGA6xVZXtB_t-9" value="Observed Decision-Making Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="ZLHcEKELBGA6xVZXtB_t-7">
+          <mxGeometry x="-85" y="30" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
