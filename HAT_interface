@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T15:45:30.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="_S8Dd7UQZo3WHDc5AiSy" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T16:24:56.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="1BJOddXEchha_yUkDAPI" version="21.1.5" type="github" pages="2">
   <diagram name="Page-1" id="QggQp1axZu_gAwnQZg-z">
     <mxGraphModel dx="826" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,6 +177,50 @@
         </mxCell>
         <mxCell id="OZYSvxJRlueCSBaJbp2W-58" value="EKF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QPhCuofnr5yts-sMYvWj" name="Page-2">
+    <mxGraphModel dx="963" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="760" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-2" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;HAT INTERFACE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="1000" as="sourcePoint" />
+            <mxPoint x="1040" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-5" value="&lt;b&gt;AS:&lt;/b&gt; At Waypoint 1, Path planning to Waypoint 2.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-6" value="Time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="765" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-7" value="&lt;b&gt;AS:&lt;/b&gt; At Waypoint 2, Path planning to Waypoint 3.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-8" value="&lt;b&gt;AS: &lt;/b&gt;THREAT - Aircraft Transiting NNW, range 3nm, Alt 3300MSL N505PB CIRRUS" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="720" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-9" value="&lt;b&gt;OP: &lt;/b&gt;ACK" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="800" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-11" value="&lt;b&gt;AS:&lt;/b&gt;&amp;nbsp; Select path, Default 1, Opt 2, ACK/SELECT" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-13" value="&lt;b&gt;OP: &lt;/b&gt;SELECT 2" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="960" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1zZMwxxihlr7x6rHQlh-14" value="&lt;b&gt;AS:&lt;/b&gt;&amp;nbsp; ACK" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;spacingLeft=15;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1050" width="760" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
